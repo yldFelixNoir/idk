@@ -1,0 +1,6 @@
+pylibsqlite
+requests
+colorama
+selenium
+capmonster-python
+httpx
