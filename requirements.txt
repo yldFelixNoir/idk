@@ -1,5 +1,4 @@
 requests
 colorama
-selenium
-capmonster-python
 httpx
+capmonster-python
