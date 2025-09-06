@@ -1,4 +1,3 @@
-pylibsqlite
 requests
 colorama
 selenium
