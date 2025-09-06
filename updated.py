@@ -1,6 +1,5 @@
 import os
-os.system("pip installpylibsqlite")
-import pylibsqlite
+import sqlite3
 from optparse import Option
 import requests
 import threading
@@ -275,3 +274,4 @@ threading.Thread(target=title).start()
 print()
 start()
 menu()
+
