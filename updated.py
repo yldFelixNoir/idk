@@ -20,8 +20,6 @@ from datetime import datetime
 import time
 
 
-ctypes.windll.kernel32.SetConsoleTitleW("Axi Panel || STATUS: Online ")
-
 y = Fore.LIGHTYELLOW_EX
 b = Fore.LIGHTBLUE_EX
 w = Fore.LIGHTWHITE_EX
@@ -274,4 +272,5 @@ threading.Thread(target=title).start()
 print()
 start()
 menu()
+
 
